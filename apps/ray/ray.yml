@@ -3,13 +3,13 @@ description: 'HTML-powered text editor for creating and organizing personal note
 website: 'https://github.com/teslor/ray'
 repository: 'https://github.com/teslor/ray'
 keywords:
+  - editor
   - html
   - text
-  - editor
-  - note
-  - project
+  - note  
+  - wysiwyg
 license: MIT
 category: Productivity
 screenshots:
   -
-    imageUrl: 'https://raw.githubusercontent.com/teslor/ray/master/static/screenshots/win.png'
+    imageUrl: 'https://raw.githubusercontent.com/teslor/ray/master/static/screenshots/mac.png'
